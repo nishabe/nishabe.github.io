@@ -1,0 +1,52 @@
+hr.underline {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 4px solid #f1f1f1;
+    max-width: 290px;
+}
+
+/* Centered text */
+.textOverLayCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textOverLayTopCenter {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    color: #ffffff!important;
+    font-weight: bold;
+    transform: translate(-50%, -50%);
+}
+
+/* Bottom left text */
+.textOverLaybottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+/* Top left text */
+.textOverLaytop-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+/* Top right text */
+.textOverLaytop-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.textOverLaybottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
