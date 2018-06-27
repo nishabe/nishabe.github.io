@@ -50,3 +50,6 @@ hr.underline {
     bottom: 8px;
     right: 16px;
 }
+.bio {
+    z-index: 4;
+}
