@@ -44,4 +44,7 @@ canvas {
   text-align: center;
   color: #ffffff;
   text-transform: lowercase;
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;
 }

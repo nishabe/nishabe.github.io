@@ -19,34 +19,7 @@ hr.underline {
     top: 5%;
     left: 50%;
     color: #ffffff!important;
-    font-weight: bold;
-    transform: translate(-50%, -50%);
-}
-
-/* Bottom left text */
-.textOverLaybottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
-
-/* Top left text */
-.textOverLaytop-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.textOverLaytop-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.textOverLaybottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
+/*    font-weight: bold;
+*/    transform: translate(-50%, -50%);
+    font-family: Montserrat;
 }
